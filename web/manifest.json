@@ -6,7 +6,8 @@
         "extensions_page": "script-src 'self' ; object-src 'self' ;"
     },
     "action":{
-        "default_popup": "index.html"
+        "default_popup": "index.html",
+        "default_icon": "favicon.png"
     },
     "manifest_version": 3
 }
