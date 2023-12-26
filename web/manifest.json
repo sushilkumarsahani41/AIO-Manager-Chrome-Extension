@@ -1,0 +1,12 @@
+{
+    "name": "All In One Manager",
+    "description": "This Self Hosted all in one Manager",
+    "version": "1.0",
+    "content_security_policy":{
+        "extensions_page": "script-src 'self' ; object-src 'self' ;"
+    },
+    "action":{
+        "default_popup": "index.html"
+    },
+    "manifest_version": 3
+}
